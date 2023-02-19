@@ -38,7 +38,7 @@ jobs:
     - name: Commit log
       env:
         NAME: im5033
-        EMAIL: t110310122@outlook.com
+        EMAIL: ssoonniicc77@gmail.com
       run: |
         git config --global user.name "$NAME"
         git config --global user.email "$EMAIL"
